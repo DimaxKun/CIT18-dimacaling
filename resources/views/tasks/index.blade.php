@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Tasks List</title>
+    <link rel="stylesheet" href="{{ asset('css/styles.css') }}">
 </head>
 <body>
     <h1>Tasks</h1>
